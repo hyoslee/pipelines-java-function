@@ -52,3 +52,4 @@ steps:
     appType: functionApp
     appName: $(appName)
     package: $(build.artifactstagingdirectory)
+    deploymentMethod: runFromPackage
