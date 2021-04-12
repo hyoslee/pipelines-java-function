@@ -14,7 +14,7 @@ variables:
   serviceConnectionToAzure: 'Azure Resource Manager Connection'
   # the name of your web app here is the same one you used above
   # when you created the web app using the Azure CLI
-  appName: 'HttpTrigger-Java'
+  appName: 'gx-zaeappdfa004'
   # the name of your functionApp is what you provided as
   # stagingDirectory in pom.xml
   functionAppName: 'javafunctions'
